@@ -1,4 +1,4 @@
-🛒 Sistema de Chequeo de Supermercado (Python)
+🛒 Sistema de Chequeo de Supermercado (por Python)
  Descripción
 
 Este proyecto simula un sistema básico de cobro de supermercado desarrollado en Python. Permite ingresar datos de un cliente, calcular el subtotal de compra, aplicar impuestos (IVA), descuentos para clientes frecuentes y mostrar el total final.
@@ -16,12 +16,12 @@ Salida detallada en consola
  
  Lógica del sistema
 Si el cliente es "Lucas" y el subtotal es mayor a 500 → se aplica 10% de descuento
-Si la cantidad de productos es mayor a 5 → se considera cliente frecuente
+Si la cantidad de productos es mayor a 5  se considera cliente frecuente
 Se calcula:
 Subtotal = precio × cantidad
 IVA = 16% del subtotal
 Total = subtotal + IVA - descuento
-🛠️ Tecnologías
+ Tecnologías
 Python 3
 Ejecución en consola
 
